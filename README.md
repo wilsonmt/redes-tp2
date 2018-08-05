@@ -1,0 +1,1 @@
+Aplicação desenvolvida para a disciplina Redes de Computadores, da UFMG. A aplicação consiste em um sistema de gerenciamento de preços de combustíveis. A compunicação é feita através do protocolo UDP.
